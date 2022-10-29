@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Data Science
-- 👯 I’m looking to collaborate on Python or Java Programs
+- 🌱 I’m currently learning Data Science and Software Development
+- 👯 I’m looking to collaborate on Python or Java Projects
 
 Please text me if you need any help with your project or 
 want to collaborate! 😄 
